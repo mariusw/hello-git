@@ -1,7 +1,7 @@
 var express = require("express"),
     http = require("http");
 
-// Configure server - marius
+// Configure server - marius - konflikt
 
 var app = express();
 app.use(express.bodyParser());
